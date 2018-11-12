@@ -1,10 +1,12 @@
-Name 		Surname 	Country_Code 	Phone
-Carlston	Azzopardi	1452		90865423
-Jack		Frost		5342		65478394
-Sarah		Zerafa		5412		45789654
-Adrian		Delia		5461		78965423
-Joseph		Muscat		4362		67853098
-Daniel		Sumler		6532		56437896
-Domenico	Agius		4372		64537890
-Domenico	Agius		4372		64537890
+Name 		Surname 	Country_Code 	Phone		E-mail
+Carlston	Azzopardi	1452		90865423	a
+Jack		Frost		5342		65478394	b
+Sarah		Zerafa		5412		45789654	c
+Adrian		Delia		5461		78965423	d
+Joseph		Muscat		4362		67853098	e
+Daniel		Sumler		6532		56437896	f
+Domenico	Agius		4372		64537890	g
+Daniel		Sumler		6532		56437896	h
+Domenico	Agius		4372		64537890	g
+
 
