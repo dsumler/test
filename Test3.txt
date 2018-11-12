@@ -1,2 +1,8 @@
 Name 		Surname 	Country_Code 	Phone
+Carlston	Azzopardi	1452		90865423
+Jack		Frost		5342		65478394
+Sarah		Zerafa		5412		45789654
+Adrian		Delia		5461		78965423
+Joseph		Muscat		4362		67853098
+
 
